@@ -3,6 +3,8 @@
 This about basic MVC (model view controller) using PHP oop (Object Oriented Programming), twig, dan mySql. 
 The purpose is for understanding basic MVC concept using PHP.
 
+## Features
+crud operations
 
 ## Tech Stack
 - PHP = main language, OOP base
